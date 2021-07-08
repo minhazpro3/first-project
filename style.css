@@ -1,0 +1,128 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.first{
+    
+    display: flex;
+    padding: 50px;
+    padding-left: 10%;
+}
+ .half-width-on{
+     width: 90%;
+ }
+ .half-width-two{
+    background-image: url(images/shapes/Group\ 8446.png);
+   background-repeat: round;
+
+ }
+ .imag{
+     width: 450px;
+ }
+#skip {
+    color: orange;
+}
+.skip-the{
+    color: rgb(145, 151, 151);
+}
+.p{
+    color: lightcoral;
+}
+.click-me{
+    text-decoration: none;
+   background-image: linear-gradient(green, tomato);
+   color: white;
+   font-weight: 1000;
+    padding: 10px 35px;
+    border-radius: 50px;
+}
+.second{
+    display: flex;
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-repeat: round;
+    
+}
+.about{
+    width: 50%;
+    }
+    .img{
+        width: 400px;
+    }
+    h1{
+        color: rgb(120, 124, 124);
+    }
+    .on{
+        color:rgb(103, 105, 105) ;
+    }
+.click{
+    text-decoration:none;
+    background-image: linear-gradient(rgb(250, 175, 12),rgb(255, 8, 8));
+    color: navy;
+    padding: 10px 35px;
+    border-radius: 50px;
+    font-weight: 1000;
+}
+.my{
+    text-align: center;
+}
+.pp{
+    font-family: 'Poppins', sans-serif;
+}
+.recipies{
+    display: flex;
+    padding: 50px;
+}
+.tt{
+    width: 250px;
+    padding: 20px 50px 30px 65px;
+    
+}
+.text{
+    margin-left: 72px;
+    margin-right: 70px;
+    color:rgb(103, 105, 105) ;
+
+}
+.Rt{
+    margin-left: 72px;
+}
+.table{
+    border: greenyellow 10px 10px;
+    
+}
+.box{
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 5px 5px 10px 5px green;
+}
+footer{
+    text-align: center;
+    background-color: lavender;
+    color: green;
+    padding: 5px;
+    font-weight: 600;
+
+}
+.test{
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12%;
+    padding: 5px ;
+    border: 10px solid #555;
+  }
+  h4{
+      text-align: center;
+      color: white;
+      background-image: linear-gradient(red,green,orange);
+      
+  }
+  .co{
+      text-align: center;
+      color: grey;
+      text-shadow: 2px 2px grey;
+  }
